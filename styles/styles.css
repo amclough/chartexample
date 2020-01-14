@@ -16,8 +16,8 @@ body {
 
 .line {
   fill: none;
-  stroke: steelblue;
-  stroke-width: 1.5px;
+  stroke: green;
+  stroke-width: 3px;
 }
 
 .overlay {
@@ -28,4 +28,9 @@ body {
 .focus circle {
   fill: none;
   stroke: steelblue;
+}
+
+.chart-container {
+  color: red;
+  border: 20px solid black;
 }
